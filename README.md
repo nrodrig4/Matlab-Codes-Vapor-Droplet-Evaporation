@@ -1,2 +1,2 @@
 # Matlab-Codes
-Matlab scripts and functions to perform various tasks
+MatlabGUI is the main code. All functions are run through there (It's only readable in Matlab)
